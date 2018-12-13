@@ -1,0 +1,5 @@
+
+lane :tests do
+  fastlane scan 
+  fastlane snapshot
+end

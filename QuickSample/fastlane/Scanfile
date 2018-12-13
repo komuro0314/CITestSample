@@ -1,0 +1,9 @@
+scheme("QuickSample")
+
+devices(["iPhone 6s"])
+
+output_types("html")
+
+open_report(true)
+
+clean(true)
