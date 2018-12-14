@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='QuickSampleUITests.xctest' tests='3' failures='0'>
+  <testsuite name='QuickSampleTests.QuickSampleSpec' tests='2' failures='0'>
+    <testcase classname='QuickSampleTests.QuickSampleSpec' name='ほげほげの場合__こうなる' time='0.076'/>
+    <testcase classname='QuickSampleTests.QuickSampleSpec' name='ほげほげの場合__こうなる_2' time='0.001'/>
+  </testsuite>
+  <testsuite name='QuickSampleUITests.QuickSampleUITests' tests='1' failures='0'>
+    <testcase classname='QuickSampleUITests.QuickSampleUITests' name='testExample' time='10.231'/>
+  </testsuite>
+</testsuites>
