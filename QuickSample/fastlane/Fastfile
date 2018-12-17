@@ -1,5 +1,8 @@
 
 lane :tests do
   fastlane scan 
+end
+
+lane : snapshot do
   fastlane snapshot
 end
