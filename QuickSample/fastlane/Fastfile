@@ -1,8 +1,8 @@
 
-lane :tests do
+lane :scanTsest do
   fastlane scan 
 end
 
-lane :snapshot do
+lane :snapshotTest do
   fastlane snapshot
 end
